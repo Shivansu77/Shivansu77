@@ -1,31 +1,45 @@
-👋 Shivansu Bisht 🚀
-🔧 Full-Stack Software Engineer 🚀 | Web App Dev | Mobile Dev | DevOps | Open to Collaboration 🌍
+👋 Shivansu Bisht
+💻 Web Developer | HTML | CSS | JavaScript | Tailwind | PHP | Java | DBMS | C++
 
-I'm Shivansu Bisht, a passionate full-stack developer and tech enthusiast dedicated to building innovative and robust solutions/applications that make a difference. From cutting-edge web apps to seamless mobile apps, I’m all about turning ideas into impactful solutions. Whether it's diving deep into complex systems, optimizing performance, or exploring new tech frontiers, I'm always up for a challenge.
+I am Shivansu Bisht, a passionate web developer dedicated to creating innovative and robust web solutions. With a diverse skill set in both front-end and back-end technologies, I strive to build seamless and user-friendly applications. I’m always eager to learn new technologies and collaborate on exciting projects.
 
-🧰 Languages and Tools
-<img align="left" alt="PHP" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/> <img align="left" alt="JAVA" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> <img align="left" alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="left" alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="left" alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="left" alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="left" alt="Vuejs" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" /> <img align="left" alt="NodeJS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="left" alt="TypeScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="GitHub" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img align="left" alt="GitHubActions" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" /> <img align="left" alt="Git" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="left" alt="Linux" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img align="left" alt="Bash" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <br />
+🛠️ Technologies & Tools
+Front-End:
+
+Back-End:
+
+Database Management:
+
+Programming Languages:
+
+🌟 Highlights
+Dynamic Web Applications: Skilled in building interactive and responsive web applications using HTML, CSS, JavaScript, and Tailwind CSS.
+
+Server-Side Development: Experienced in creating and managing back-end systems with PHP and Java.
+
+Database Management: Proficient in database management systems, ensuring data integrity and efficient data handling.
+
+Problem Solving: Strong problem-solving skills with proficiency in C++.
+
+Learning & Collaboration: Continuously learning new technologies and open to collaboration on innovative projects.
 
 <br />
 
-<details> <summary><h3>🚀 Shivansu's Coding Journey</h3></summary> My journey into the world of coding began with a deep curiosity about how the digital tools and applications we use daily are built. This curiosity quickly turned into a passion, driving me to explore the depths of programming and software development.
+<details> <summary><h3>🚀 Shivansu's Coding Journey</h3></summary> My journey into the world of web development began with a fascination for how websites and applications are built. This curiosity quickly turned into a passion, driving me to explore the depths of programming and development.
 
 🌱 The Early Days
 I started with the basics—HTML, CSS, and JavaScript—building simple web pages and interactive elements. These foundational skills gave me a solid understanding of how the web works and sparked my interest in creating more complex, dynamic applications.
 
-🛠️ Diving into Backend Development
-As my skills grew, I gravitated towards backend development, where I found my true calling. I delved into PHP and Java, mastering the art of building scalable and secure applications. Working with frameworks like Laravel and Spring, I developed everything from small projects to large-scale systems.
+🛠️ Diving into Back-End Development
+As my skills grew, I gravitated towards back-end development, where I delved into PHP and Java. I mastered the art of building scalable and secure applications, ensuring robust back-end functionality to support dynamic web experiences.
 
-📱 Expanding into Mobile Development
-My curiosity didn't stop at web development; I expanded my expertise into mobile development. Learning frameworks like Flutter and React Native opened up a new world of possibilities, allowing me to create seamless, cross-platform mobile applications. Whether it’s building a feature-rich financial app or an intuitive educational tool, I strive to deliver top-notch user experiences.
-
-🌐 Embracing DevOps
-Understanding that development doesn’t stop at coding, I embraced DevOps practices to streamline and automate the deployment process. GitHub Actions, Docker, and cloud platforms like AWS and Azure became integral tools in my workflow, enabling me to deliver applications efficiently and reliably.
+🌐 Database Management
+To complement my development skills, I also focused on database management, learning how to handle data efficiently and securely with various DBMS technologies.
 
 🌟 Current Focus
-Today, I’m focused on pushing the boundaries of what’s possible with technology. My projects, like a comprehensive weather app and a user-friendly EMIS system for educational management, reflect my commitment to creating solutions that address real-world challenges.
+Today, I’m dedicated to pushing the boundaries of web development by incorporating modern frameworks and tools like Tailwind CSS. My recent projects, like a comprehensive weather app, showcase my commitment to creating solutions that address real-world challenges.
 
 🚀 Looking Forward
-As I continue to evolve as a developer, I’m excited to explore new technologies and contribute to innovative projects. I believe in the power of collaboration and am always open to working with like-minded individuals who share my passion for technology and innovation.
+As I continue to evolve as a developer, I’m excited to explore new technologies and collaborate on innovative projects. I believe in the power of continuous learning and am always open to working with like-minded individuals who share my passion for technology and innovation.
 
 </details>
