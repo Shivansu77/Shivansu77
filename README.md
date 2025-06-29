@@ -1,45 +1,58 @@
-👋 Shivansu Bisht
-💻 Web Developer | HTML | CSS | JavaScript | Tailwind | PHP | Java | DBMS | C++
+<h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50">Shivansu Bisht</span>!</h1>
+<p align="center">
+  💻 <strong>Web Developer</strong> | HTML | CSS | JavaScript | Tailwind | PHP | Java | DBMS | C++  
+</p>
 
-I am Shivansu Bisht, a passionate web developer dedicated to creating innovative and robust web solutions. With a diverse skill set in both front-end and back-end technologies, I strive to build seamless and user-friendly applications. I’m always eager to learn new technologies and collaborate on exciting projects.
+---
 
-🛠️ Technologies & Tools
-Front-End:
+### 🚀 About Me
+I'm a passionate full-stack web developer on a mission to craft **seamless, efficient, and visually engaging** web experiences. From the front-end to the back-end, I bring ideas to life with clean code and creative thinking. Always learning, always building! ⚙️✨
 
-Back-End:
+---
 
-Database Management:
+### 🛠️ Technologies & Tools
 
-Programming Languages:
+| Front-End        | Back-End       | Database      | Languages           |
+|------------------|----------------|---------------|----------------------|
+| HTML, CSS, JS, Tailwind | PHP, Java       | MySQL, PostgreSQL | Java, C++, JavaScript |
 
-🌟 Highlights
-Dynamic Web Applications: Skilled in building interactive and responsive web applications using HTML, CSS, JavaScript, and Tailwind CSS.
+---
 
-Server-Side Development: Experienced in creating and managing back-end systems with PHP and Java.
+### 🌟 Highlights
+- ⚡ **Responsive Web Apps** – Built with HTML, CSS, JS, and Tailwind
+- 🛡️ **Secure Back-End** – Strong grip on PHP and Java-based servers
+- 💾 **Data Reliability** – Confident working with DBMS for real-time data
+- 🧠 **Problem Solver** – Competitive coding in C++ and Java
+- 🤝 **Team Player** – Always ready to collaborate and contribute!
 
-Database Management: Proficient in database management systems, ensuring data integrity and efficient data handling.
+---
 
-Problem Solving: Strong problem-solving skills with proficiency in C++.
+<details>
+<summary><h3>💡 <code>Shivansu's Coding Journey</code> 🚀</h3></summary>
 
-Learning & Collaboration: Continuously learning new technologies and open to collaboration on innovative projects.
+#### 🌱 The Beginning  
+I got hooked on code while exploring how websites come to life. That curiosity turned into a full-blown obsession—so I dove into HTML, CSS, and JS to create my first web projects.
 
-<br />
+#### 🔧 Into the Back-End  
+Things got more exciting when I moved to server-side magic—PHP and Java became my go-to tools for building scalable and secure web apps.
 
-<details> <summary><h3>🚀 Shivansu's Coding Journey</h3></summary> My journey into the world of web development began with a fascination for how websites and applications are built. This curiosity quickly turned into a passion, driving me to explore the depths of programming and development.
+#### 🧠 Data Dive  
+To support those projects, I developed a solid understanding of DBMS concepts, ensuring clean and efficient data flow.
 
-🌱 The Early Days
-I started with the basics—HTML, CSS, and JavaScript—building simple web pages and interactive elements. These foundational skills gave me a solid understanding of how the web works and sparked my interest in creating more complex, dynamic applications.
-
-🛠️ Diving into Back-End Development
-As my skills grew, I gravitated towards back-end development, where I delved into PHP and Java. I mastered the art of building scalable and secure applications, ensuring robust back-end functionality to support dynamic web experiences.
-
-🌐 Database Management
-To complement my development skills, I also focused on database management, learning how to handle data efficiently and securely with various DBMS technologies.
-
-🌟 Current Focus
-Today, I’m dedicated to pushing the boundaries of web development by incorporating modern frameworks and tools like Tailwind CSS. My recent projects, like a comprehensive weather app, showcase my commitment to creating solutions that address real-world challenges.
-
-🚀 Looking Forward
-As I continue to evolve as a developer, I’m excited to explore new technologies and collaborate on innovative projects. I believe in the power of continuous learning and am always open to working with like-minded individuals who share my passion for technology and innovation.
+#### 📈 Growing Every Day  
+My recent projects include real-world applications like weather apps and portfolio sites. I'm constantly pushing my limits with new tools, frameworks, and ideas!
 
 </details>
+
+---
+
+### 🌍 Let's Connect & Collaborate
+💌 [shivansubisht@example.com](mailto:shivansubisht@example.com)  
+📂 [My Portfolio](#)  
+🐙 [GitHub](https://github.com/Shivansu77)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
