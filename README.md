@@ -1,5 +1,5 @@
 👋 Shivansu Bisht
-💻 Web Developer | HTML | CSS | JavaScript | Tailwind | PHP | Java | DBMS | C++
+💻 Web Developer | HTML | CSS | JavaScript | Tailwind | PHP | Java | DBMS | C++ | REACT | NODE JS
 
 I am Shivansu Bisht, a passionate web developer dedicated to creating innovative and robust web solutions. With a diverse skill set in both front-end and back-end technologies, I strive to build seamless and user-friendly applications. I’m always eager to learn new technologies and collaborate on exciting projects.
 
