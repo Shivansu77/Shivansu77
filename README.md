@@ -10,9 +10,9 @@
 - 👯 I’m looking to collaborate on **https://www.linkedin.com/in/shivansu-bisht-833aba290/**  
 - 👨‍💻 All of my projects are available at [https://github.com/Shivansu77](https://github.com/Shivansu77)  
 - 📝 I regularly online on linkedin [https://www.linkedin.com/in/shivansu-bisht-833aba290/](https://www.linkedin.com/in/shivansu-bisht-833aba290/)  
-- 💬 Ask me about **dsa & backend also js**  
-- 📫 How to reach me **shivansubisht77@gmail.com**  
-- ⚡ Fun fact **I can talk with my code more than anyone**  
+- 💬 Ask me about **dsa & backend also js **  
+- 📫 How to reach me **shivansubisht77@gmail.com **  
+- ⚡ Fun fact **I can talk with my code more than anyone **  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
