@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivansu77" alt="shivansu77" /></a> </p>
 
-- 🔭 I’m currently working on **My own projects**  
+- 🔭 I’m currently working on ** My own projects **  
 - 🌱 I’m currently learning **Solving advance dsa and backend graphql and node ,devops & genai**  
 - 👯 I’m looking to collaborate on **https://www.linkedin.com/in/shivansu-bisht-833aba290/**  
 - 👨‍💻 All of my projects are available at [https://github.com/Shivansu77](https://github.com/Shivansu77)  
