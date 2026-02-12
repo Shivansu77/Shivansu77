@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansu Bisht</h1>
-<h3 align="center">"DSA Explorer (200+ LeetCode | 200+ GfG | InterviewBit for practice) | Diving Deep into Dynamic Programming | Building Backends with Node.js & GraphQL"</h3>
+<h3 align="center">"DSA Explorer (200+ LeetCode | 200+ GfG | InterviewBit for practice) | Diving Deep into Dynamic Programming | Building Backends with Node.js & GraphQL && Nextjs"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivansu77&label=Profile%20views&color=0e75b6&style=flat" alt="shivansu77" /> </p>
 
