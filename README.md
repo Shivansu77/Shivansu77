@@ -1,57 +1,150 @@
-<h1 align="center">Hi 👋, I'm Shivansu Bisht</h1>
-<h3 align="center">"DSA Explorer (400+ LeetCode | 300+ GfG | InterviewBit for practice) | Diving Deep into Dynamic Programming | Building Backends with Node.js & GraphQL && Nextjs"</h3>
+<!-- HERO BANNER -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivansu77&label=Profile%20views&color=0e75b6&style=flat" alt="shivansu77" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivansu77" alt="shivansu77" /></a> </p>
-
-- 🔭 I’m currently working on ** My own projects **  
-- 🌱 I’m currently learning **Solving advance dsa and backend graphql and node ,devops & genai**  
-- 👯 I’m looking to collaborate on **https://www.linkedin.com/in/shivansu-bisht-833aba290/**  
-- 👨‍💻 All of my projects are available at [https://github.com/Shivansu77](https://github.com/Shivansu77)  
-- 📝 I regularly online on linkedin [https://www.linkedin.com/in/shivansu-bisht-833aba290/](https://www.linkedin.com/in/shivansu-bisht-833aba290/)  
-- 💬 Ask me about **dsa & backend also js **  
-- 📫 How to reach me **shivansubisht77@gmail.com **  
-- ⚡ Fun fact **I can talk with my code more than anyone **  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://leetcode.com/u/shivansu77/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/shivansuedmw/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <!-- Fixed Express Icon -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <!-- GenAI Icon (using HuggingFace for now) -->
-  <a href="https://openai.com" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="genai" width="40" height="40"/></a>
+<h1 align="center">⚔️ SHIVANSU BISHT ⚔️</h1>
+
+<h3 align="center">
+「コードは剣なり」
+<br>
+Code is my sword. Discipline is my path.
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=DSA+Warrior;Backend+Craftsman;Node.js+%7C+GraphQL+%7C+Next.js;400%2B+LeetCode+Problems+Solved;Building+One+Battle+At+A+Time" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansu77&show_icons=true&locale=en&layout=compact" alt="shivansu77" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansu77&show_icons=true&locale=en" alt="shivansu77" /></p>
+---
+
+# 🏯 The Warrior's Journal
+
+> "A blade is forged through fire.
+> A developer is forged through difficult problems."
+
+⚔️ 400+ LeetCode Problems Solved
+
+⚔️ 300+ GeeksForGeeks Problems Solved
+
+⚔️ Exploring Dynamic Programming
+
+⚔️ Building Backend Systems with Node.js & GraphQL
+
+⚔️ Learning DevOps & Generative AI
+
+⚔️ Pursuing mastery through deliberate practice
+
+---
+
+# 🌸 Current Training Arc
+
+```text
+Level 1  ✓ HTML
+Level 2  ✓ CSS
+Level 3  ✓ JavaScript
+Level 4  ✓ React
+Level 5  ✓ Backend
+Level 6  ⚔️ Advanced DSA
+Level 7  ⚔️ System Design
+Level 8  ⚔️ DevOps
+Level 9  ⚔️ AI Engineering
+```
+
+---
+
+# ⚡ Battle Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivansu77&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansu77&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 Contribution Flame
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansu77&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐉 Dragon's Arsenal
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge\&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge\&logo=tailwindcss)
+
+### Backend
+
+![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge\&logo=graphql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge\&logo=kubernetes)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge\&logo=linux)
+
+---
+
+# 🗡️ The Scrolls
+
+### Earth Scroll
+
+Master the fundamentals.
+
+### Water Scroll
+
+Adapt to every challenge.
+
+### Fire Scroll
+
+Attack hard problems relentlessly.
+
+### Wind Scroll
+
+Learn from great engineers.
+
+### Void Scroll
+
+Understand principles, not just tools.
+
+---
+
+# 🐲 Coding Battlefield
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shivansu77&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🌙 Enter The Dojo
+
+<p align="center">
+<a href="https://leetcode.com/u/shivansu77/">LeetCode</a> •
+<a href="https://www.geeksforgeeks.org/user/shivansuedmw/">GeeksForGeeks</a> •
+<a href="https://github.com/Shivansu77">GitHub</a> •
+<a href="https://www.linkedin.com/in/shivansu-bisht-833aba290/">LinkedIn</a>
+</p>
+
+<p align="center">
+⚔️ "The enemy is not the problem. The enemy is the version of yourself that gives up."
+</p>
+
+<!-- FOOTER GIF -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
+</p>
